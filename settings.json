@@ -12,6 +12,7 @@
     },
     "code-runner.ignoreSelection": true,
     "workbench.iconTheme": "material-icon-theme",
+    "python.defaultInterpreterPath": "c:\\Users\\Pedro\\AppData\\Local\\Programs\\Python\\Python313\\python.exe",
     "explorer.fileNesting.patterns": {
         "*.ts": "${capture}.js",
         "*.js": "${capture}.js.map, ${capture}.min.js, ${capture}.d.ts",
@@ -28,5 +29,8 @@
     },
     "workbench.secondarySideBar.defaultVisibility": "hidden",
     "chat.agent.enabled": false,
-    "mdb.mcp.server": "autoStartEnabled"
-}
+    "mdb.mcp.server": "autoStartEnabled",
+    "discord.detailsEditing": "Editing {workspace}",
+    "discord.detailsIdling": "{empty}",
+    "discord.removeLowerDetails": true
+} 
