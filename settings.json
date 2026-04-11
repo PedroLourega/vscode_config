@@ -35,5 +35,16 @@
     "discord.removeLowerDetails": true,
     "workbench.settings.applyToAllProfiles": [
         
-    ]
+    ],
+    "github.copilot.nextEditSuggestions.enabled": false,
+    "editor.inlineSuggest.showToolbar": "always",
+    "github.copilot.enable": {
+        "*": false,
+        "plaintext": false,
+        "markdown": false,
+        "scminput": false,
+        "python": true
+    },
+    "jupyter.askForKernelRestart": false,
+    "git.openRepositoryInParentFolders": "never"
 } 
